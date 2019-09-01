@@ -9,6 +9,8 @@
 
     <modules>
         <module>eureka-server</module>
+        <module>eureka-server2</module>
         <module>springcloud-hello</module>
+        <module>ribbon-server</module>
     </modules>
 </project>
